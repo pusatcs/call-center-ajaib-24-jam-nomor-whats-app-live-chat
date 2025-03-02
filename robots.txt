@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://call-center-ajaib-24-jam-nomor-whats-app-live-chat.vercel.app/sitemap.xml
